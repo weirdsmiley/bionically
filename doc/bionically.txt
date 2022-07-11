@@ -1,0 +1,41 @@
+*bionically.txt*      bionically
+
+################################################################################~
+##    #        "                    "                  ""#    ""#             ##
+##    #mmm   mmm     mmm   m mm   mmm     mmm    mmm     #      #    m   m    ##
+##    #" "#    #    #" "#  #"  #    #    #"  "  "   #    #      #    "m m"    ##
+##    #   #    #    #   #  #   #    #    #      m"""#    #      #     #m#     ##
+##    ##m#"  mm#mm  "#m#"  #   #  mm#mm  "#mm"  "mm"#    "mm    "mm   "#      ##
+##                                                                    m"      ##
+##                                                                   ""       ##
+################################################################################~
+
+================================================================================
+CONTENTS                                                      bionically
+
+1. Introduction			       	       		|bionically-intro|
+2. Commands                                             |bionically-commands|
+
+================================================================================
+INTRODUCTION                                                  *bionically*
+
+
+This plugin will convert text on current buffer into a bionic reading font.
+
+I will strongly recomment to not use this plugin on texts which you haven't seen
+before, because reading unfamiliar words can become troublesome. Although,
+reading a text you have encountered before, is way faster.
+
+To know more about bionic-reading refer https://bionic-reading.com/
+
+================================================================================
+COMMANDS                                                    *bionically-commands*
+
+1. Bionically : Requires no parameter. This command replaces the current buffer
+   contents with its bionic version
+
+2. BionicallySetup : A setup command for initilizing details.
+
+================================================================================
+ vim:tw=78:sw=4:noet:ts=8:ft=help:norl:
+
