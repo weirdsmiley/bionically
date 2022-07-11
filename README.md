@@ -28,3 +28,7 @@ Install `markdownify`.
 ```bash
 $ pip install markdownify
 ```
+
+#### Output
+
+![Bionically Output](./assets/bionically.png?raw=true)
