@@ -16,5 +16,7 @@ For this plugin, you will have to subscribe to the [bionic-reading](https://bion
 
 After subscribing to the API, switch to `Python->Requests` in Code Snippets section, and copy `url` and `headers` in `bionically/src/config.py`.
 
-![Switch to Python->Requests](./assets/Img1.png)
-![Copy url and headers](./assets/Img2.png)
+![Switch to Python->Requests](./assets/Img1.png?raw=true)
+
+
+![Copy url and headers](./assets/Img2.png?raw=true)
