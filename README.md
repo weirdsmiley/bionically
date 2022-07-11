@@ -20,3 +20,11 @@ After subscribing to the API, switch to `Python->Requests` in Code Snippets sect
 
 
 ![Copy url and headers](./assets/Img2.png?raw=true)
+
+### Requirements
+
+Install `markdownify`.
+
+```bash
+$ pip install markdownify
+```
