@@ -7,7 +7,7 @@ This plugin will convert text on current buffer into a bionic reading font.
 Install the pluging using `vim-plug`. Place the following line in your `.vimrc`.
 
 ```vimscript
-Plug 'weirdsmiley/bionically'
+Plug 'weirdsmiley/bionically', {'branch': 'release/1.0.0'}
 ```
 
 Source it and `:PlugInstall` to install.
